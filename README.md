@@ -1,7 +1,5 @@
-Zachary Ikpefua
-ECE 3220
-Project 2
-README
+Zachary Ikpefua | Clemson ECE 3220
+# Project 2 : User Mode Thread Library
 
 KNOWN PROBLEMS:
 Preemptive test 2: Cannot seem to get this test, I have assertion errors and segmentation faults
